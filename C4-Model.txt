@@ -1,0 +1,15 @@
+C4: 4 Níveis de detalhamento
+
+CONTEXTO
+CONTAINER
+COMPONENTE
+CÓDIGO (CLASSE)
+
+Sistema de Gestão de Biblioteca
+
+Gerenciamento de Usuário
+Catalogo de livros
+Empréstiomos e Devoluções
+- Notificação 
+- Pagamentos
+
